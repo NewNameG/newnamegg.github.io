@@ -1,0 +1,29 @@
+/* Спецификации */
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+
+body {
+    font-family: ;
+    font-size: ;
+    color: ;
+}
+
+/* Шапка */
+
+.headerr {
+
+}
+
+.containerr {
+    background: red;
+    padding: 50px 0 50px 0;
+}
+
+.containerr a {
+    font-size: 50px;
+    color: red;
+    font-weight: bold;
+}
